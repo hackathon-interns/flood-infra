@@ -12,7 +12,7 @@ Este projeto utiliza Docker Compose para configurar um broker MQTT e um serviço
 1. Clone este repositório:
     ```bash
     git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    cd flood-infra
     ```
 
 2. Execute o Docker Compose:
